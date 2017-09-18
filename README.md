@@ -1,2 +1,3 @@
-# generic-flask
-for docker
+# Generic python flask
+
+Basic flask config ~~for docker?~~
